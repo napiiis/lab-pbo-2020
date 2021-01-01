@@ -2,7 +2,7 @@ public class Pegawai {
     private String nama;
     private double gaji;
     
-    /* method constructor ini digunakan
+    /* method Constructor ini digunakan
     untuk menciptakan suatu objek dengan parameter*/
     public Pegawai(String nama, double gaji)
     {
